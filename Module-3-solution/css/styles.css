@@ -3,25 +3,19 @@
 	padding: 0;
 	
 }
-
-.navbar-inverse .navbar-brand {
-  color: black;
-  font-weight: bolder;
-}
 .navbar{
 
 border: none;
-background-color: rgb(88, 88, 88);
-color: #000000;
+background-color: black;
+color: #d8d2d5;
 }
-
 body{
-	background-color: #37737e;
-	color: rgb(0, 0, 0);
+	background-color: #b8b5b6;
+	color: white;
 }
 .glyphicon{
 	font-size: 30px;
-	color:#a1f53a; 
+	color:#6fd42c; 
 }
 
 .center{
@@ -35,37 +29,16 @@ body{
 }
 .text-center{
 	font-size: 30px;
+  color: black;
   font-weight: bolder;
-  color: rgb(18, 33, 3);
 }
 
 h2{
 	text-align: center;
 }
-#collapsable-nav ul li a {
-	color: #c5bbbf;
+#myNavbar ul li a {
+	color: #c9d0dc;
 }
 .navbar-brand{
 font-size: 30px;	
-}
-
-.navbar-header .icon-bar {
-  border: 1px solid #ffffff;
-  color: white;
-  border-radius: 1px;
-}  
-
-
-#nav-list {
-  margin-top: 10px;
-}
-#nav-list a {
-  color: #951C49;
-  text-align: center;
-}
-#nav-list a:hover {
-  background: #E7E7E7;
-}
-#nav-list a span {
-  font-size: 1.8em;
 }
