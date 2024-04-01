@@ -46,9 +46,10 @@ h2 {
 	text-align: center;
 }
 
-.navbar-nav>li>a{
+.nav>li>a {
 	text-align: center;
 }
+
 .navbar-brand {
 	font-size: 30px;
 }
