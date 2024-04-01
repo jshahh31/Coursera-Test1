@@ -1,44 +1,51 @@
-*{
+* {
 	margin: 0;
 	padding: 0;
-	
-}
-.navbar{
 
-border: none;
-background-color: black;
-color: #d8d2d5;
 }
-body{
+
+.navbar {
+
+	border: none;
+	background-color: black;
+	color: #d8d2d5;
+}
+
+body {
 	background-color: #b8b5b6;
 	color: white;
 }
-.glyphicon{
+
+.glyphicon {
 	font-size: 30px;
-	color:#6fd42c; 
+	color: #6fd42c;
 }
 
-.center{
+.center {
 	width: 90%;
 	background-color: grey;
 
 }
-.container
-{
+
+.container {
 	background-color: grey;
 }
-.text-center{
+
+.text-center {
 	font-size: 30px;
-  color: black;
-  font-weight: bolder;
+	color: black;
+	font-weight: bolder;
 }
 
-h2{
+h2 {
 	text-align: center;
 }
+
 #myNavbar ul li a {
 	color: #c9d0dc;
+	text-align: center;
 }
-.navbar-brand{
-font-size: 30px;	
+
+.navbar-brand {
+	font-size: 30px;
 }
